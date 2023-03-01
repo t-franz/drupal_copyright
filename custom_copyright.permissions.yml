@@ -1,0 +1,4 @@
+administer custom_copyright configuration:
+  title: 'Administer custom_copyright configuration'
+  description: 'Administer the line with copyright-information'
+  restrict access: true
